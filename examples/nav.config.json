@@ -281,6 +281,10 @@
               "title": "Carousel 走马灯"
             },
             {
+              "path": "/new-carousel",
+              "title": "NewCarousel 新走马灯"
+            },
+            {
               "path": "/collapse",
               "title": "Collapse 折叠面板"
             },
@@ -593,6 +597,10 @@
             {
               "path": "/carousel",
               "title": "Carousel"
+            },
+            {
+              "path": "/new-carousel",
+              "title": "NewCarousel"
             },
             {
               "path": "/collapse",
@@ -913,6 +921,10 @@
               "title": "Carousel"
             },
             {
+              "path": "/new-carousel",
+              "title": "NewCarousel"
+            },
+            {
               "path": "/collapse",
               "title": "Collapse"
             },
@@ -1229,6 +1241,10 @@
             {
               "path": "/carousel",
               "title": "Carousel"
+            },
+            {
+              "path": "/new-carousel",
+              "title": "NewCarousel"
             },
             {
               "path": "/collapse",
